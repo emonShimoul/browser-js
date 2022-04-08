@@ -13,3 +13,5 @@ setTimeout(() => {
 }, 4000);
 console.log('Third: I am the 3rd');
 console.log('Fourth: I am the 4th');
+
+// settimeout asynchronous vabe kaj kore
